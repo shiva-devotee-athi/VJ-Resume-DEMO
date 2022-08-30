@@ -254,18 +254,18 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: rgb(220, 255, 23);
 }
 
 #hero p {
-  color: #fff;
+  color:  rgb(220, 255, 23);
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
-  color: #fff;
+  color:  rgb(220, 255, 23);
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
@@ -310,7 +310,8 @@ h6 {
     margin-bottom: 30px;
   }
   #hero {
-      background: linear-gradient(rgba(2, 122, 202, 0.9), rgb(255, 255, 255));
+      /* background: linear-gradient(rgba(2, 122, 202, 0.9), rgb(255, 255, 255)); */
+      background-attachment: fixed;
     /* background: url(../img/Wb\ .jpg); */
     /* background-position: 350px; */
     /* background:scroll; */
